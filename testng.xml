@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Rest API">
+    <classes>
+      <class name="TestFramework.Basic1"/>
+      <class name="TestFramework.Basic2"/>
+      <class name="TestFramework.basic3"/>
+      <class name="TestFramework.Basic4"/>
+      <class name="TestFramework.Basic5"/>
+      <class name="TestFramework.Basic6"/>
+      <class name="TestFramework.Basic7"/>
+      <class name="TestFramework.Basic8"/>
+    </classes>
+  </test> <!-- Rest API -->
+</suite> <!-- Suite -->
